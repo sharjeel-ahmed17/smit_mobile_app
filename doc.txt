@@ -1,0 +1,2 @@
+create expo project 
+setup tailwind css
